@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224123066078",
+    "project_id": "shappar-c22d7",
+    "storage_bucket": "shappar-c22d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224123066078:android:403c6c6225eb7d3d48144f",
+        "android_client_info": {
+          "package_name": "com.example.project_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEID28E6bXz6D6ltFVUr-eIoKEGqDmqSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
